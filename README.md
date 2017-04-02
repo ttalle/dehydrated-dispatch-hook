@@ -5,7 +5,7 @@ you can use this script to dispatch the hooks to multiple hook-scripts.
 
 ## Dependencies
 
-Nothing special, only Bash.
+Nothing special, only tested in Bash.
 
 ## Usage
 
